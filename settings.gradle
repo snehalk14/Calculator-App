@@ -1,0 +1,2 @@
+include ':app', ':calculatorlogic'
+rootProject.name='CalculatorApp'
